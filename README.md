@@ -1,32 +1,29 @@
-# sails-generate
+# blue-prod-generate
 
-Master of ceremonies for generators in the Sails CLI.
-This is a built-in module within the Sails framework, used by the `sails` command-line interface.  It is installed automatically when you run `npm install sails -g`.
-For customization options, see [Extending Sails > Generators](https://sailsjs.com/documentation/concepts/extending-sails/generators).
+Master of ceremonies for generators in the blue-prod CLI.
+This is a built-in module within the blue-prod framework, used by the `blue-prod` command-line interface.  It is installed automatically when you run `npm install blue-prod -g`.
 
 
 ## Help
 
-If you have further questions or are having trouble, click [here](https://sailsjs.com/support).
+If you have further questions or are having trouble, click [here](https://github.com/EMSA-TECHNOLOGY/blue-prod-generate/issues).
 
 
-## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/sails-generate.svg)](http://npmjs.com/package/sails-generate)
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/blue-prod-generate.svg)](http://npmjs.com/package/blue-prod-generate)
 
-To report a bug, [click here](https://sailsjs.com/bugs).
+To report a bug, [click here](https://github.com/EMSA-TECHNOLOGY/blue-prod-generate/issues).
 
 
 ## Contributing
 
-Please observe the guidelines and conventions laid out in the [Sails project contribution guide](https://sailsjs.com/documentation/contributing) when opening issues or submitting pull requests.
-
-[![NPM](https://nodei.co/npm/sails-generate.png?downloads=true)](http://npmjs.com/package/sails-generate)
+[![NPM](https://nodei.co/npm/blue-prod-generate.png?downloads=true)](http://npmjs.com/package/blue-prod-generate)
 
 
 #### What happened to the old core generators?
 
-Originally, Sails' core generators were spread across multiple repos and NPM packages.  For easier maintainence, they were pulled inline in `sails-generate` as part of Sails v1.  But they can still be overridden or disabled in [the same way as before](https://sailsjs.com/documentation/concepts/extending-sails/generators/custom-generators).
+Originally, blue-prod' core generators were spread across multiple repos and NPM packages.
 
 ## License
 
-The [Sails framework](https://sailsjs.com) is free and open-source under the [MIT License](https://sailsjs.com/license).
+The [blue-prod framework](https://github.com/EMSA-TECHNOLOGY/blue-prod) is free and open-source under the [MIT License](https://github.com/EMSA-TECHNOLOGY/blue-prod/blob/master/LICENSE.md).
 

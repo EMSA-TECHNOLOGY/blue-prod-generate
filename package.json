@@ -1,23 +1,23 @@
 {
-  "name": "sails-generate",
-  "version": "1.16.12",
-  "description": "Runner script for sails generators",
+  "name": "blue-prod-generate",
+  "version": "0.0.1",
+  "description": "Runner script for blue-prod generators",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "@sailshq/lodash": "^3.10.3",
+    "blue-prod-lodash": "0.0.1",
     "async": "2.0.1",
     "chalk": "1.1.3",
     "cross-spawn": "4.0.2",
     "flaverr": "^1.0.0",
     "fs-extra": "0.30.0",
     "machinepack-process": "^4.0.0",
-    "parasails": "^0.7.1",
+    "blue-prod-para": "0.0.1",
     "read": "1.0.7",
     "reportback": "^2.0.1",
-    "sails.io.js-dist": "^1.0.0"
+    "blue-prod.io.js-dist": "0.0.1"
   },
   "devDependencies": {
     "checksum": "0.1.1",
@@ -34,15 +34,16 @@
     "generate",
     "sails-generate",
     "generator",
-    "automation"
+    "automation",
+    "blue-prod"
   ],
-  "author": "Mike McNeil",
+  "author": "Vu Do",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-generate.git"
+    "url": "git://github.com/EMSA-TECHNOLOGY/blue-prod-generate.git"
   },
-  "license": "MIT",
   "bugs": {
-    "url": "http://github.com/balderdashy/sails-generate/issues"
-  }
+    "url": "https://github.com/EMSA-TECHNOLOGY/blue-prod-generate/issues"
+  },
+  "license": "MIT"
 }
